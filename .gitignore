@@ -1,0 +1,9 @@
+# 개인 생성 산출물
+outputs/**
+!outputs/.gitkeep
+
+# 개인 설정 파일
+inputs/user_config.md
+inputs/target_roles.md
+inputs/career_sources_map.md
+inputs/skill_tag_taxonomy.md
